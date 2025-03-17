@@ -1,3 +1,4 @@
+nginx:1.26.3
 #redis:7.4.1
 #nginx:1.27.2
 #mysql:8.4.3
@@ -14,4 +15,3 @@
 #docker.elastic.co/kibana/kibana:8.17.0
 #neo4j:5.26.0-community-bullseye
 #mongo:4.4
-nginx:1.26.3
